@@ -14,7 +14,9 @@ Watch this video
 
 https://www.youtube.com/watch?v=5mDYijMfSzs
 
+##### Code type in jupyter Notebook (recomendation)  or google colab (my personal fav)
 
+https://colab.research.google.com/#create=true
 
 
 
