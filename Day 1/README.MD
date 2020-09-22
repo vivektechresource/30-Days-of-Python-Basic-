@@ -1,4 +1,15 @@
 # Day 1
-## First step download python and IDE
+### <font color="green"> First step download python and IDE </font>
+
+#### Step 1
+Download Python or Anaconda IDE
+
+https://www.python.org/downloads/
+
+My recomendation is anaconda
+
+https://www.anaconda.com/products/individual
+
+
 
 
