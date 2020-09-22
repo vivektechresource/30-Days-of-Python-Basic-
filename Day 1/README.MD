@@ -10,6 +10,11 @@ My recomendation is anaconda
 
 https://www.anaconda.com/products/individual
 
+Watch this video
+
+https://www.youtube.com/watch?v=5mDYijMfSzs
+
+
 
 
 
